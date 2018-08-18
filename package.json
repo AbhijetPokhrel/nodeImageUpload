@@ -1,0 +1,23 @@
+{
+  "name": "ktmnode",
+  "version": "1.0.0",
+  "description": "An easy framework for node servers",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "formidable": "^1.2.1",
+    "webp-converter": "^2.1.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel ./app --experimental --source-maps-inline -d ./.dist | node index.js",
+    "migrate": "node migrate.js",
+    "seed": "node seed.js"
+  },
+  "author": "Abhijet Pokhrel",
+  "license": "ISC"
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "name": "/",
+    "method": "get",
+    "redirect": "controller/welcome@index"
+  }
+
+]

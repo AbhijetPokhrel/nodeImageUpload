@@ -1,0 +1,8 @@
+[
+  {
+    "name": "/images",
+    "method": "post",
+    "redirect": "controller/image@uploadImage"
+  }
+
+]

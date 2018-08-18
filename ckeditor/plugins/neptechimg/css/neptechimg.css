@@ -1,0 +1,102 @@
+.ckd123boxdivup555 {
+  margin: auto;
+  width: 90%;
+}
+
+#ckd123boxinfoup555 {
+  width: 100%;
+  float: left;
+  padding: 10px;
+}
+
+
+#ckd123boximgup555upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  float: left;
+  font-size: small;
+}
+
+#ckd123boximgup555upload-btn-wrapper button {
+  border: 2px solid gray;
+  color: #7d5454;
+  background-color: white;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#ckd123boximgup555upload-btn-wrapper{
+  padding: 8px;
+  margin: 10px;
+  border-radius: 8px;
+  color: #32567b;
+  border: 2px solid #3d7bb9;
+  background: white;
+
+}
+#ckd123boxloadingup555{
+  padding: 10px;
+  color: white;
+  background: #303030;
+  opacity: 0.7;
+  border-radius: 8px;
+}
+
+
+#ckd123boximgup555upload-btn-wrapper:hover {
+  background: #DEDEDE;
+  color:#303030;
+}
+
+#ckd123boximgup555upload-btn-wrapper input[type=file] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+.ckd123boxdivup555 div {
+  padding: 2px;
+  margin: auto;
+  width: 75px;
+  height: 75px;
+  float: left;
+}
+
+.ckd123boxdivup555 div img {
+  width: 95%;
+  height: 95%;
+  margin: auto;
+  object-fit: cover;
+}
+
+.ckd123boxdivup555 div img:hover {
+  transform: scale(1.07)
+}
+
+.ckd123boxup555left {
+  float: left
+}
+
+.ckd123boxup555sel {
+  border: 2px solid #1122EE;
+}
+
+.ckd123boxup555img {
+  width: 70px;
+  height: 70px;
+}
+
+#ckmedaifab{
+  font-size: 3em;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+#ckmediacontainer{
+  width: 100%;
+  float: left;
+}
